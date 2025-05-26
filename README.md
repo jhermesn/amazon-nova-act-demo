@@ -6,4 +6,4 @@
 4. Gere a sua chave de API e exporte-a utilizando:
     1. `export NOVA_ACT_API_KEY="SUA_CHAVE"` se estiver em sistemas Unix-based.
     2. `$env:NOVA_ACT_API_KEY="SUA_CHAVE"` se estiver no Windows.
-5. Execute utilizando `py main.py`
+5. Execute utilizando `python main.py`
